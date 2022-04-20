@@ -35,7 +35,7 @@ fun mediaAlunos() {
        soma +=  notas[i]
    }
     media = soma / notas.size
-    println("A média do aluno é: $media");
+    println("A média do aluno é: $media")
 }
 
 
